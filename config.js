@@ -5,9 +5,6 @@ window.config = {
     {
       label: '首页',
       link: '/'
-    }, {
-      label: '博客',
-      link: '/blog'
     }
   ],
   github: {
